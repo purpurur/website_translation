@@ -7,14 +7,10 @@ return [
     | Privacy policy Language Lines
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used during authentication for various
-    | messages that we need to display to the user. You are free to modify
-    | these language lines according to your application's requirements.
-    |
     */   
     "privacy_policy"    => "Privacy Policy",
     "privacy_header"    => "TOR-X NETWORK LIMITED PRIVACY POLICY",
-    "privacy_text"  => "<p>TOR-X Network Limited (the “<strong>Company</strong>,” “<strong>we</strong>,” or “<strong>us</strong>”) wants you to be familiar with how we collect, use and disclose information. <br>This Privacy Policy describes our practices in connection with information that we collect: </p>
+    "privacy_text"      => "<p>TOR-X Network Limited (the “<strong>Company</strong>,” “<strong>we</strong>,” or “<strong>us</strong>”) wants you to be familiar with how we collect, use and disclose information. <br>This Privacy Policy describes our practices in connection with information that we collect: </p>
 <ul >
 <li>through websites operated by us from which you are accessing this Privacy Policy (the “<strong>Websites</strong>”); and</li>
 <li>through HTML-formatted email messages that we send to you that link to this Privacy Policy. </li>

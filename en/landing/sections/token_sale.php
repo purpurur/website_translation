@@ -10,8 +10,6 @@ return [
     "section_caption"   => "Token Sale",
     "section_text_1"    => "Join the industry leaders to discuss where the markets are heading. We accept token payments. ",
 
-    // common countdown widget fields see in /landing/countdown_widget.php
-
     // side blocks
     "starting_time" => "Starting time :",
     "ending_time"   => "Ending time :",

@@ -7,10 +7,6 @@ return [
     | Dashboard Language Lines
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used during authentication for various
-    | messages that we need to display to the user. You are free to modify
-    | these language lines according to your application's requirements.
-    |
     */
     "page_title"        => "Security Settings",
     "page_text_1"       => "You can control your password and account-access setting and toos that let you safe, protect your account.",
@@ -26,7 +22,6 @@ return [
     "pass_changed"      =>  "Password Changed",
     "update"            =>  "Update",
     "tab_3_title"       =>  "Activity Log",
-    "tab_3_title"       =>  "Activity Log",
     
     // success_kyc
     "link"              => "Your unique referral link",
@@ -38,8 +33,4 @@ return [
     "views"     => "Pageviews",
     "regs"      => "Registrations",
     "earn"      => "Total bonus",
-    
-
-    
-
 ];

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Services section (Meet our solution for you)
+ * Services section 
  */
 
 return [

@@ -7,10 +7,6 @@ return [
     | Dashboard Language Lines
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used during authentication for various
-    | messages that we need to display to the user. You are free to modify
-    | these language lines according to your application's requirements.
-    |
     */
     "page_title"    => "Identity Verification - KYC",
     "page_text_1"       => "To comply with regulation each participant will have to go through identity verification (KYC). So please complete our fast and secure verification process to participate in our token sale. You can proceed from here to verify your indentity and also you can check your application status if you submit already. ",

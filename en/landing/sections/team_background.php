@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Blockchains section
+ * Team background and experience section
  */
 
 return [

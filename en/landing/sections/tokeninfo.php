@@ -1,14 +1,11 @@
 <?php
 
 /**
- * Banner section
+ * Token info section
  */
 
 return [
-    // common countdown widget fields see in /landing/countdown_widget.php
-
-    // ICO Rating Review
-
+    
     "softcap"   => "Soft Cap",
     "hardcap"   => "Hard Cap",
     "testnet"   => "Testnet",

@@ -7,9 +7,6 @@ return [
     | Dashboard Language Lines
     |--------------------------------------------------------------------------
     |
-    | The following language lines are used during authentication for various
-    | messages that we need to display to the user. You are free to modify
-    | these language lines according to your application's requirements.
     |
     */
 
@@ -26,7 +23,7 @@ return [
     "main_balance"		=> "Main balance",
     "bonus_balance"		=> "Bonus balance",
     //right widget
-    "widget_contrib_h"    => "YOUR CONTRIBUTION",
+    "widget_contrib_h"  => "YOUR CONTRIBUTION",
     // current sale stage
     "cur_bonus"     => "Current Bonus",
     "start_d"       => "START DATE",

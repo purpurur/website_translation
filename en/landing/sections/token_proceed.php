@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Token sale and proceeds section
+ * Token sale and token distribution section
  */
 
 return [

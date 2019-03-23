@@ -1,7 +1,7 @@
 <?php
 
 /**
- * About TORX section
+ * About TOR-X MCDM section
  */
 
 return [
